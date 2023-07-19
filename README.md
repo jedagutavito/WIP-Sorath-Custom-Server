@@ -21,6 +21,9 @@ Includes database, scripts, dbc & patches
 For more information about their prices, you can find me on discord as: mr_patience
 https://www.youtube.com/@sorathwow2436
 
+![WoWScrnShot_101421_140640](https://github.com/jedagutavito/WIP-Sorath-Custom-Server/assets/73094194/e02af366-c8c4-4694-b1ee-9329890228da)
+
+
 ![219692154_136868588591052_8260662235155873524_n](https://github.com/jedagutavito/WIP-Sorath-Custom-Server/assets/73094194/85575915-1b54-4087-95f6-23802a0f8f46)
 
 
