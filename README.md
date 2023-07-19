@@ -1,5 +1,6 @@
 # WIP-Sorath-Custom-Server
 Sorath WoW 3.3.5
+![Argent_banner_1_short_points_color_line](https://github.com/jedagutavito/WIP-Sorath-Custom-Server/assets/73094194/90a0318f-51d1-47e4-b477-e73aace70858)
 ★ Updated and working with AzerothCore Custom Server
 ★ Upgrade of more than 20 armor
 ★ Updated and modern class spells and bosses
