@@ -24,8 +24,8 @@ Welcome to the Sorath Custom Server for World of Warcraft version 3.3.5! This se
 - Updated character creation with dynamic interfaces
 - Constantly maintained and updated
 
-For more information and pricing, you can find me on Discord as: mr_patience
-Check out our videos on [YouTube](https://www.youtube.com/@sorathwow2436)
+For more information and pricing, you can find me on **Discord as: mr_patience**
+Check out our videos on [YouTube Sorath-WoW](https://www.youtube.com/@sorathwow2436)
 
 ## Screenshots
 
