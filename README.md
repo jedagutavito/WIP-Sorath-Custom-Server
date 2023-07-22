@@ -74,7 +74,7 @@ Includes database, scripts, dbc & patches
 - New battleground and death system updates with events based on player interaction ✅
 - Balanced class system ✅
 - Updated character creation with dynamic interfaces ✅
-- Constantly maintained and updated✅
+- Constantly maintained and updated ✅
 
 For more information and pricing, you can find me on **Discord as: mr_patience**
 [![Discord](https://img.shields.io/badge/Discord-mr__patience%236969-%237289DA?logo=discord&logoColor=white)](https://discord.com/users/mr_patience)
