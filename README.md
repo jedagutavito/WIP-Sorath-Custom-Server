@@ -81,7 +81,7 @@ For more information and pricing, you can find me on **Discord as: mr_patience**
 
 Check out our videos on [YouTube Sorath-WoW](https://www.youtube.com/@sorathwow2436)
 
-## Screenshots
+## Screenshots FULL INTERFACE CUSTOM
 
 ![Screenshot 1](https://github.com/jedagutavito/WIP-Sorath-Custom-Server/assets/73094194/e02af366-c8c4-4694-b1ee-9329890228da)
 ![Screenshot 2](https://github.com/jedagutavito/WIP-Sorath-Custom-Server/assets/73094194/85575915-1b54-4087-95f6-23802a0f8f46)
