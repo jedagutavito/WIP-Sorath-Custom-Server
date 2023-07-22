@@ -94,5 +94,7 @@ Check out our videos on [YouTube Sorath-WoW](https://www.youtube.com/@sorathwow2
   <img src="https://github.com/jedagutavito/WIP-Sorath-Custom-Server/assets/73094194/8ef436c3-5dd7-4a15-90e7-32913f34b424" width="320" alt="Screenshot 8">
   <img src="https://github.com/jedagutavito/WIP-Sorath-Custom-Server/assets/73094194/66178369-c2f5-4e15-9e65-e7ff551a44f9" width="320" alt="Screenshot 9">
   <img src="https://github.com/jedagutavito/WIP-Sorath-Custom-Server/assets/73094194/5f76dbfd-ea5f-4fd4-acb3-ca620d0665c4" width="320" alt="Screenshot 10">
+<img src="https://github.com/jedagutavito/WIP-Sorath-Custom-Server/assets/73094194/2e8824ac-ed9e-443a-a230-d50b74f2ea0c" width="320" alt="Screenshot 11">
+<img src="https://github.com/jedagutavito/WIP-Sorath-Custom-Server/assets/73094194/256c3e2b-204a-4aba-805d-1db1dac7f4a3" width="320" alt="Screenshot 12">
 
 </p>
