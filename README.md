@@ -11,6 +11,51 @@
 
 Welcome to the Sorath Custom Server for World of Warcraft version 3.3.5! This server offers an enhanced and modernized gaming experience with various exciting features and updates.
 
+## SCRIPTS
+
+- [Eluna - Events] (FILE) (11 SCRIPTS)
+- [Eluna - NPC Crosfacción] (FILE) (3 SCRIPTS)
+- [Eluna - NPC_KEYs] (FILE) (10 SCRIPTS) 
+- [Eluna - Pases de Hermandad] (FILE) (2 SCRIPTS)
+- [Eluna - VIP] (FILE) (16 SCRIPTS)
+- [Eluna Custom Systems] (FILE) (18 SCRIPTS)
+- [Eluna_Block_Instances] (FILE) (10 SCRIPTS)
+- [Eluna_scripts] (FILE) (3 SCRIPTS)
+- Bosses Custom (FILE) (5 SCRITPTS)
+- Enchants (FILE) (9 SCRIPTS)
+- [Eluna - Angel de resurección].lua
+- [Eluna - Anuncio nuevo jugador].lua
+- [Eluna - Autobroadcast].lua
+- [Eluna - Cambiador PvP].lua
+- [Eluna - Cambio de divisiones]- II.lua
+- [Eluna - Cambio de divisiones].lua
+- [Eluna - Cambio de Honor-Arena].lua
+- [Eluna - Comando .banco].lua
+- [Eluna - Comando .buff].lua
+- [Eluna - Comando .mall].lua
+- [Eluna - Comando .mall_vieja].lua
+- [Eluna - Comando .worldbuff].lua
+- [Eluna - Global-Trainer].lua
+- [Eluna - Info creature].lua
+- [Eluna - Info display item].lua
+- [Eluna - Login player].lua
+- [Eluna - Mision Almas Torturadas].lua
+- [Eluna - Misiones Caballero de la Muerte].lua
+- [Eluna - NPC BUFF].lua
+- [Eluna - NPC Helper].lua
+- [Eluna - NPC teleport].lua
+- [Eluna - Piedra Hogar].lua
+- [Eluna - Probador de Monturas Shadowland].lua
+- [Eluna - SET PVP].lua
+- [Eluna - Top 5].lua
+- [Eluna - Top 10].lua
+- [Eluna - Trainer Master].lua
+- [Eluna - World Boss CUP!].lua
+- [Eluna - World Bosse Buff].lua
+- [Eluna - Zone Prohibida].lua
+- [Eluna] Announce Raid World.lua
+- [Eluna] Command #app.lua
+
 ## Key Features
 
 - Updated and working with AzerothCore Custom Server
