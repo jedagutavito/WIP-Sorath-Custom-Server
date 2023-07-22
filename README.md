@@ -83,8 +83,16 @@ Check out our videos on [YouTube Sorath-WoW](https://www.youtube.com/@sorathwow2
 
 ## Screenshots FULL INTERFACE CUSTOM
 
-![Screenshot 1](https://github.com/jedagutavito/WIP-Sorath-Custom-Server/assets/73094194/e02af366-c8c4-4694-b1ee-9329890228da)
-![Screenshot 2](https://github.com/jedagutavito/WIP-Sorath-Custom-Server/assets/73094194/85575915-1b54-4087-95f6-23802a0f8f46)
-![Screenshot 3](https://github.com/jedagutavito/WIP-Sorath-Custom-Server/assets/73094194/1a2c5226-6ad8-42ff-bd84-f4209178a64b)
-![Screenshot 4](https://github.com/jedagutavito/WIP-Sorath-Custom-Server/assets/73094194/9d6a4640-6bda-4571-9cc4-f520c7c76854)
-![Screenshot 5](https://github.com/jedagutavito/WIP-Sorath-Custom-Server/assets/73094194/736fbfd0-7ea4-4bac-819e-e1616df410fc)
+<p align="center">
+  <img src="https://github.com/jedagutavito/WIP-Sorath-Custom-Server/assets/73094194/e02af366-c8c4-4694-b1ee-9329890228da" width="295" alt="Screenshot 1">
+  <img src="https://github.com/jedagutavito/WIP-Sorath-Custom-Server/assets/73094194/85575915-1b54-4087-95f6-23802a0f8f46" width="320" alt="Screenshot 2">
+  <img src="https://github.com/jedagutavito/WIP-Sorath-Custom-Server/assets/73094194/1a2c5226-6ad8-42ff-bd84-f4209178a64b" width="320" alt="Screenshot 3">
+  <img src="https://github.com/jedagutavito/WIP-Sorath-Custom-Server/assets/73094194/9d6a4640-6bda-4571-9cc4-f520c7c76854" width="320" alt="Screenshot 4">
+  <img src="https://github.com/jedagutavito/WIP-Sorath-Custom-Server/assets/73094194/736fbfd0-7ea4-4bac-819e-e1616df410fc" width="320" alt="Screenshot 5">
+  <img src="https://github.com/jedagutavito/WIP-Sorath-Custom-Server/assets/73094194/c9828cf0-569e-4e5e-89ba-d0d335243fa4" width="320" alt="Screenshot 6">
+  <img src="https://github.com/jedagutavito/WIP-Sorath-Custom-Server/assets/73094194/5f7e59d6-9fdb-44a3-9a4c-c84f27bce765" width="320" alt="Screenshot 7">
+  <img src="https://github.com/jedagutavito/WIP-Sorath-Custom-Server/assets/73094194/8ef436c3-5dd7-4a15-90e7-32913f34b424" width="320" alt="Screenshot 8">
+  <img src="https://github.com/jedagutavito/WIP-Sorath-Custom-Server/assets/73094194/66178369-c2f5-4e15-9e65-e7ff551a44f9" width="320" alt="Screenshot 9">
+  <img src="https://github.com/jedagutavito/WIP-Sorath-Custom-Server/assets/73094194/5f76dbfd-ea5f-4fd4-acb3-ca620d0665c4" width="320" alt="Screenshot 10">
+
+</p>
