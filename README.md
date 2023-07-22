@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/jedagutavito/WIP-Sorath-Custom-Server/assets/73094194/5d63e5b8-f57d-4e3f-821e-9bc5a279ed6a" width="200" alt="Sorath Custom Server Logo">
+</p>
+
 # WIP-Sorath-Custom-Server
 Sorath WoW 3.3.5
 ![Argent_banner_1_short_points_color_line](https://github.com/jedagutavito/WIP-Sorath-Custom-Server/assets/73094194/90a0318f-51d1-47e4-b477-e73aace70858)
@@ -25,6 +29,8 @@ Welcome to the Sorath Custom Server for World of Warcraft version 3.3.5! This se
 - Constantly maintained and updated
 
 For more information and pricing, you can find me on **Discord as: mr_patience**
+[![Discord](https://img.shields.io/badge/Discord-mr__patience%236969-%237289DA?logo=discord&logoColor=white)](https://discord.com/users/mr_patience)
+
 Check out our videos on [YouTube Sorath-WoW](https://www.youtube.com/@sorathwow2436)
 
 ## Screenshots
