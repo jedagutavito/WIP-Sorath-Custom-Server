@@ -2,8 +2,9 @@
   <img src="https://github.com/jedagutavito/WIP-Sorath-Custom-Server/assets/73094194/5d63e5b8-f57d-4e3f-821e-9bc5a279ed6a" width="200" alt="Sorath Custom Server Logo">
 </p>
 
-# WIP-Sorath-Custom-Server
-Sorath WoW 3.3.5
+<h1 align="center">WIP-Sorath-Custom-Server</h1>
+<p align="center">Sorath WoW 3.3.5</p>
+
 ![Argent_banner_1_short_points_color_line](https://github.com/jedagutavito/WIP-Sorath-Custom-Server/assets/73094194/90a0318f-51d1-47e4-b477-e73aace70858)
 
 ## Introduction
